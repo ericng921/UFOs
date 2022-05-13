@@ -33,16 +33,16 @@ We can go back to our home page anytime by clicking navbar on top left.
 ## Summary
 
 
-For drawback:
+There are two drawbacks:
 
 1. There is no message box if user enter a wrong information in filter. Some user may not know what they can enter on the filter box. 
 
-2. Filter is case sensitive. For example, if user enter "PA", or "pA" on State, the user cannot get the correct result.
+2. Filter is case sensitive. For example, if user enter "PA", or "pA" on State, the user cannot get the correct result, user has to enter exactly "pa" in lower case.
 
 
 There are two recommendations for further development
 
-1. On the table column, we can add a link for each case that can be a news, images, or evidence that related to the incident. It can bring the user experience to a higher level and will be more convincing.
+1. On the table column, we can add a link for each case. It can be news, images, or evidence that related to the incident. It can bring the user experience to a higher level and will be more convincing.
 
-2. we can have one more filter for Duration. For example, we can create a drop-down filter such as "Less than 1 minute, 1-to-5-minute, 5 minute or more"
+2. we can have one more filter for Duration. For example, we can create a drop-down filter such as "Less than 1 minute, 1-to-5-minute, 5 minute or more" for the duration, so user can look for their desired result easier.
 
