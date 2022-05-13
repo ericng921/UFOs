@@ -12,14 +12,17 @@ We also stored all the data in data.js, so we can find our data from html by add
 
 ## Results
 
+![home](https://user-images.githubusercontent.com/100378319/168394325-89a18ea7-c1e7-4b39-8735-648fa11c48d9.png)
 
 As picture shown above, this is the home page of the UFOs webpage. There is a short description of the project and also a table contains all the data at the bottom.
 
 
+![filter](https://user-images.githubusercontent.com/100378319/168394335-9e0e34eb-d421-419f-ac22-71913d3c2ac1.png)
 
 We can apply filter in our search for the specific UFO incident we want to see. For example, we can enter the shape of the UFO, the date, or the city, etc.
 
 
+![top_left](https://user-images.githubusercontent.com/100378319/168394346-a7e66826-6e96-43da-90c0-db04b63122cf.png)
 
 We can go back to our home page anytime by clicking navbar on top left.
 
